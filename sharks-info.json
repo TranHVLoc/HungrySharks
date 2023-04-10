@@ -1,0 +1,38 @@
+{
+    "great-white": {
+        "name": "Great White Shark",
+        "image": "src/assets/shark-1.jpg"
+    },
+    "blue": {
+        "name": "Blue Shark",
+        "image": "src/assets/shark-2.jpg"
+    },
+    "basking": {
+        "name": "Basking Shark",
+        "image": "src/assets/shark-3.jpg"
+    },
+    "hammered-head": {
+        "name": "Hammered Head Shark",
+        "image": "src/assets/shark-4.jpg"
+    },
+    "mako": {
+        "name": "Mako Shark",
+        "image": "src/assets/shark-5.jpg"
+    },
+    "megamouth": {
+        "name": "Megamouth Shark",
+        "image": "src/assets/shark-6.jpg"
+    },
+    "sand": {
+        "name": "Sand Shark",
+        "image": "src/assets/shark-7.jpg"
+    },
+    "whale": {
+        "name": "Whale Shark",
+        "image": "src/assets/shark-8.jpg"
+    },
+    "whitetip-reef": {
+        "name": "Whitetip Reef Shark",
+        "image": "src/assets/shark-9.jpg"
+    }
+}

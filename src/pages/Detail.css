@@ -1,0 +1,10 @@
+.Detail {
+    background-color: rgba(5, 197, 171, 0.3);
+    width: max-content;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+a {
+    justify-content: center;
+}
