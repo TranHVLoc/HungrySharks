@@ -1,6 +1,6 @@
-# Web Development Project 7 - *HungrySharks*
+# Web Project - *HungrySharks*
 
-Submitted by: **Loc Tran**
+By: **Loc Tran**
 
 This web app: **A Hungry Sharks World themed web application to creating and displaying favourite sharks**
 
