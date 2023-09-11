@@ -1,23 +1,18 @@
-# Web Project - *HungrySharks*
+# Web Development Project - *HungrySharks*
 
 By: **Loc Tran**
 
 This web app: **A Hungry Sharks World themed web application to creating and displaying favourite sharks**
 
-Time spent: **8.5** hours spent in total
-
 ## Required Features
 
-The following **required** functionality is completed:
+The following functionalities include:
 
-- [x] **A create form allows users to add new cremates**
-- [x] **Users can name the crewmate and set the crewmate's attributes by clicking on one of several values**
-- [x] **The site displays a summary page of all the user's added crewmates**
-- [x] **A previously created crewmate can be updated and deleted from the crewmate list**
-- [x] **Each crewmate has a direct, unique link to an info page about them**
-
-The following **optional** features are implemented:
-
+- [x] A create form allows users to add new cremates
+- [x] Users can name the crewmate and set the crewmate's attributes by clicking on one of several values
+- [x] The site displays a summary page of all the user's added crewmates
+- [x] A previously created crewmate can be updated and deleted from the crewmate list
+- [x] Each crewmate has a direct, unique link to an info page about them
 - [x] A crewmate can be given a category upon creation which restricts their attributes
 - [x] The site displays summary statistics about a user's crew on their crew page 
 - [x] The site displays a custom "success" metric about a user's crew which changes the look of the crewmate list
